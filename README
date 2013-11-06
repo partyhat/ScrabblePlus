@@ -1,0 +1,12 @@
+This is Scrabble++ which is a regular game of scrabble except with special 
+tiles that include Lose a Turn, Reverse Order, and Negative Points.  A player
+can buy special tiles with the points they have and play them on the board
+somewhere.  Only the player that plays a special tile can see it, so that 
+another player may land on it and enact the effect causing them to lose a turn,
+get negative points, or reverse the order of the players.
+
+The executable jar file is located in Scrabble++.zip.  Unzip this folder to run
+the application.  Make sure you do not move the jar file out of the folder that
+includes the assets folder and the Scrabble++_lib folder.  
+
+Have Fun!
